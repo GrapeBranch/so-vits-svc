@@ -542,6 +542,12 @@ For some reason the author deleted the original repository. Because of the negli
     <td align="center"><a href="https://github.com/zdxiaoda"><img src="https://avatars.githubusercontent.com/u/45501959?v=4" width="100px;" alt=""/><br /><sub><b>zd小达</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Archivoice"><img src="https://avatars.githubusercontent.com/u/107520869?v=4" width="100px;" alt=""/><br /><sub><b>凍聲響世</b></sub></a><br /></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/innnky"><img src="https://avatars.githubusercontent.com/u/67028263?v=4" width="100px;" alt=""/><br /><sub><b>innnky</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/NaruseMioShirakana"><img src="https://avatars.githubusercontent.com/u/40709280?v=4" width="100px;" alt=""/><br /><sub><b>NaruseMioShirakana</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/SuCicada"><img src="https://avatars.githubusercontent.com/u/33519267?v=4" width="100px;" alt=""/><br /><sub><b>SuCicada</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/eltociear"><img src="https://avatars.githubusercontent.com/u/22633385?v=4" width="100px;" alt=""/><br /><sub><b>eltociear</b></sub></a><br /></td>
+  </tr>
 </table>
 
 ## 📚 Some legal provisions for reference
